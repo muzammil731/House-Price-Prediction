@@ -1,0 +1,22 @@
+# House Price Prediction System
+
+## Overview
+This project uses machine learning to predict house prices based on key factors such as location, size, and features. The predictive model offers 85% accuracy, helping users identify properties that match their preferences.
+
+## Features
+- **Linear Regression Model**: Predict house prices with high accuracy.
+- **Data Analysis**: Analyze 10+ key factors affecting house prices.
+- **Real-World Testing**: Tested with 500+ data points for robust performance.
+
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**: Pandas, Scikit-learn, Matplotlib
+- **Development Environment**: Jupyter Notebook
+
+## Installation
+1. Clone the repository: `git clone https://github.com/muzammil731/House-Price-Prediction.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Open and run `HousePricePrediction.ipynb` in Jupyter Notebook.
+
+## Contributions
+Feel free to contribute by submitting issues or pull requests.
